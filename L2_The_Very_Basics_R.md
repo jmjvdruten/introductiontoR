@@ -1,8 +1,7 @@
 ---
 title: "The very basics"
-sidebar: toc
-category: getting-started
-order: 1
+layout: template
+filename: L2_The_Very_Basic_R
 ---
 
 # Data types
