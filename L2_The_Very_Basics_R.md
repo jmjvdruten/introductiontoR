@@ -1,7 +1,7 @@
 ---
 title: "The very basics"
 layout: template
-filename: L2_The_Very_Basic_R
+filename: L2_The_Very_Basics_R
 ---
 
 # Data types
