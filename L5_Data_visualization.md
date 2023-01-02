@@ -1,3 +1,8 @@
+---
+title: Data visualization
+layout: template
+filename: L5_Data_visualization
+---
 # The data science process
 
 <img src="./Ressources/DataScienceProcess_Graphs.png" width="1225" height="300" style="margin: 0px 50px">
