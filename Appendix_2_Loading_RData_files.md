@@ -1,5 +1,5 @@
 ---
-title: Option 1: Changing the working directory
+title: Option 1 Changing the working directory
 layout: template
 filename: Appendix_2_Loading_RData_files
 ---
