@@ -1,5 +1,5 @@
 ---
-title: Option 1: Base R
+title: Option 1 Base R
 layout: template
 filename: Appendix_3_Loading_CSV_Files
 ---
