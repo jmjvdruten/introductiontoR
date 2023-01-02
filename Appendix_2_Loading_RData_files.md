@@ -1,3 +1,9 @@
+---
+title: Option 1: Changing the working directory
+layout: template
+filename: Appendix_2_Loading_RData_files
+---
+
 # Option 1: Changing the working directory
 
 * When starting with R it is the best to work within the directory associated with your project and remain there for the duration of your session. 
