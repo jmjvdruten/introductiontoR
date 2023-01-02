@@ -7,11 +7,11 @@ permalink: /:categories/
 
 header_pages:
   - index.md
-  - A_Primer_on_R.md
+  - L1_A_Primer_on_R.md
   - Base_R.md
   - Data_import.md
-  - Programming_Functions.md
-  - Programming_Loops.md
-  - Programming_Tips.md
+  - L7_Programming_Functions.md
+  - L7_Programming_Loops.md
+  - L7_Programming_Tips.md
   - Grammer_of_Graphics.md
   - RMarkdown.md
