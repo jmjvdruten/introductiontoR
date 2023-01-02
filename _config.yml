@@ -6,6 +6,7 @@ theme: minima
 permalink: /:categories/
 
 header_pages:
+  - index.md
   - A_Primer_on_R.md
   - Base_R.md
   - Data_import.md
