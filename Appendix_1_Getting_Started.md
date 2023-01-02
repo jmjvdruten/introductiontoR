@@ -1,10 +1,7 @@
 ---
-title: "Getting started with R (and RStudio)"
+title: Getting started with R (and RStudio)
 layout: template
 filename: Appendix_1_Getting_Started
-sidebar: toc
-category: getting-started
-order: 1
 ---
 
 # What is R?
