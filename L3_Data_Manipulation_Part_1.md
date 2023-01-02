@@ -1,3 +1,9 @@
+---
+title: The data science process
+layout: template
+filename: L3_Data_Manipulation_Part_1
+---
+
 # The data science process
 
 <img src="./Ressources/DataScienceProcess_Manipulate.png" width="1225" height="300" style="margin: 0px 50px">
