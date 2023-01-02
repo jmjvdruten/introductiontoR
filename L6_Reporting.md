@@ -1,3 +1,9 @@
+---
+title: Reporting
+layout: template
+filename: L6_Reporting
+---
+
 # The data science process
 
 <img src="./Ressources/DataScienceProcess_Reports.png" width="1225" height="300" style="margin: 0px 50px">
