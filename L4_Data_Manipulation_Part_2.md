@@ -1,3 +1,9 @@
+---
+title: Data types
+layout: template
+filename: L4_Data_Manipulation_Part_2
+---
+
 # Data types (revised)
 
 In a dataset, we can distinguish two types of variables:
