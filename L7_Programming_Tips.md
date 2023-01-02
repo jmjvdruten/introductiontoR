@@ -1,8 +1,7 @@
 ---
-title: "Do's and Don'ts"
-sidebar: toc
-category: Programming
-order: 1
+title: Do's and Don'ts
+layout: template
+filename: L7_Programming_Tips
 ---
 
 ## Failing to vectorize
