@@ -1,0 +1,15 @@
+---
+title: Introduction to R
+layout: template
+filename: index
+--- 
+
+# Introduction to R
+
+## blablabla
+
+#### blablabla?
+blablablablablablablablablablablablablablablablablablablablabla
+
+#### blablablablablabla?
+blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
