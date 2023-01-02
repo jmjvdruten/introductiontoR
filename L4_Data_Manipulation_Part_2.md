@@ -1,5 +1,5 @@
 ---
-title: Data types
+title: Data manipulation part 2
 layout: template
 filename: L4_Data_Manipulation_Part_2
 ---
