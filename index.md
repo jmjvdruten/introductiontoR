@@ -1,5 +1,5 @@
 ---
-title: pafatbn forever!
+title: Introduction to R
 layout: template
 filename: index
 --- 
