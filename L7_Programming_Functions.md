@@ -1,8 +1,7 @@
 ---
-title: "Functions"
-sidebar: toc
-category: Programming
-order: 1
+title: Functions
+layout: template
+filename: L7_Programming_Functions
 ---
 
 ## Definition
