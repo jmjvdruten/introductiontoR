@@ -1,3 +1,10 @@
+---
+title: Option 1: Base R
+layout: template
+filename: Appendix_3_Loading_CSV_Files
+---
+
+
 # Option 1: Base R
 
 _Step 1:_ Click on the **import** dataset button in the top-right section under the **environment tab**. Choose **From Text (base R)** and select the file you want to import. Next, the import dataset dialog will appear as in the example shown below:
