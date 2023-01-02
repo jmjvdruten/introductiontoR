@@ -1,8 +1,7 @@
 ---
-title: "Loops"
-sidebar: toc
-category: Programming
-order: 1
+title: Loops
+layout: template
+filename: L7_Programming_Loops
 ---
 
 ## Definition
