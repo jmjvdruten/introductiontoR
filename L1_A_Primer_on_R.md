@@ -1,8 +1,7 @@
 ---
-title: "A Primer on R (and RStudio)"
-sidebar: toc
-category: getting-started
-order: 1
+title: A Primer on R (and RStudio)
+layout: template
+filename: L1_A_Primer_on_R
 ---
 
 # What is R?
