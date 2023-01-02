@@ -1,5 +1,5 @@
 ---
-title: The data science process
+title: Data Manipulation part 1
 layout: template
 filename: L3_Data_Manipulation_Part_1
 ---
