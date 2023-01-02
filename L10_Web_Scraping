@@ -1,8 +1,7 @@
 ---
-title: "Web Scraping"
-sidebar: toc
-category: getting-started
-order: 1
+title: Web Scraping
+layout: template
+filename: L10_Web_Scraping
 ---
 
 # What is Web Scraping?
