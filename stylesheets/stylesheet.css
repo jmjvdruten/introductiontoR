@@ -116,6 +116,12 @@ a {
   .project-name {
     font-size: 1.75rem; } }
 
+.intro {
+  color: #010101;
+  text-align: left;
+  background-color: #FEFEFE;
+  background-image: ; }
+
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
