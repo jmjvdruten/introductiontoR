@@ -120,7 +120,7 @@ a {
   color: #010101;
   text-align: left;
   background-color: #FEFEFE;
-  background-image: ; }
+  background-image: linear-gradient(120deg, #155799, #159957); }
 
 
 @media screen and (min-width: 64em) {
