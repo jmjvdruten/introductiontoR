@@ -22,7 +22,7 @@ a {
 }
 
 .navbar a {
-  float: left;
+  float: center;
   font-size: 16px;
   color: #010101;
   text-align: center;
@@ -34,7 +34,7 @@ a {
 }
 
 .dropdown {
-  float: center;
+  position: relative;
   overflow: hidden;
 }
 
@@ -81,12 +81,30 @@ a {
   display: block;
 }
 
+.column {
+position: relative;
+overflow: hidden;
+}
+
+.column img:nth-of-type(1) {
+position: absolute;
+top:0;
+left: 50%;
+}
+
+.column img:nth-of-type(2) {
+position: absolute;
+top:0;
+right: 0;
+ }
+
 
 .page-header {
   color: #010101;
   text-align: left;
   background-color: #FEFEFE;
   background-image: ; }
+
 
 @media screen and (min-width: 64em) {
   .page-header {
