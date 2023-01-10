@@ -149,14 +149,14 @@ a {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #FEFEFE;
-  background-color: #e3dad8;
+  background-color: #101010;
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #567482;
+  color: #101010;
   word-wrap: normal;
   background-color: #f3f6fa;
   border: solid 1px #dce6f0;
@@ -165,7 +165,7 @@ a {
     padding: 0;
     margin: 0;
     font-size: 0.9rem;
-    color: #567482;
+    color: #101010;
     word-break: normal;
     white-space: pre;
     background: transparent;
