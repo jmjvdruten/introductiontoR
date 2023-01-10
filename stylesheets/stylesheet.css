@@ -123,6 +123,7 @@ a {
   background-image: ; }
 
 .project-tagline {
+  padding: 0.8rem;
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7; }
