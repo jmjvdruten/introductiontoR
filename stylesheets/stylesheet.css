@@ -7,7 +7,7 @@ body {
   font-family: "Museo Sans", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #DCDCDC; }
+  color: #010101; }
 
 a {
   color: #010101;
@@ -149,14 +149,14 @@ a {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #FEFEFE;
-  background-color: #101010;
+  background-color: #e3dad8;
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
   font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  color: #101010;
+  color: #567482;
   word-wrap: normal;
   background-color: #f3f6fa;
   border: solid 1px #dce6f0;
@@ -165,7 +165,7 @@ a {
     padding: 0;
     margin: 0;
     font-size: 0.9rem;
-    color: #101010;
+    color: #567482;
     word-break: normal;
     white-space: pre;
     background: transparent;
