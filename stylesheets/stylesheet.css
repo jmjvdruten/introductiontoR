@@ -106,8 +106,7 @@ position: absolute;
 
 .page-header {
   color: #010101;
-  text-align: left;
-  background-color: #FEFEFE;}
+  text-align: left;}
 
 .header {
   margin: auto;
@@ -146,6 +145,12 @@ position: absolute;
   color: #010101;
   text-align: left;}
 
+.centered {
+  position: absolute;
+  top: 80%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
 
 .project-tagline {
   margin-bottom: 5rem;
@@ -163,6 +168,11 @@ position: absolute;
 @media screen and (max-width: 42em) {
   .project-tagline {
     font-size: 1rem; } }
+
+.content {
+  margin: auto;
+  width: 85%;
+  color: #010101;}
 
 .main-content :first-child {
   margin-top: 0; }
