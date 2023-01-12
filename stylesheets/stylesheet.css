@@ -134,22 +134,22 @@ right: 20%;
   .project-name {
     font-size: 0.75rem; } }
 
-.intro {
+.intro-screen {
   color: #010101;
   text-align: left;
   background-color: #010101; }
 
 
 @media screen and (min-width: 64em) {
-  .intro {
+  .intro-screen {
     padding: 5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
-  .intro {
+  .intro-screen {
     padding: 3rem 4rem; } }
 
 @media screen and (max-width: 42em) {
-  .intro {
+  .intro-screen {
     padding: 2rem 1rem; } }
 
 
