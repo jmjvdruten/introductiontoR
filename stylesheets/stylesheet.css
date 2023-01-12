@@ -34,6 +34,12 @@ right: 20%;
 }
 
 
+
+.bar {
+  margin: auto;
+  width: 70%;}
+
+
 .navbar {
   margin: auto;
   overflow: hidden;
@@ -106,6 +112,10 @@ right: 20%;
   background-color: #FEFEFE;
   background-image: ; }
 
+.header {
+  margin: auto;
+  width: 70%;}
+
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -154,7 +164,7 @@ right: 20%;
 
 .banner {
   margin: auto;
-  width: 50%;
+  width: 70%;
   color: #010101;
   text-align: left;
   background-color: #010101; }
