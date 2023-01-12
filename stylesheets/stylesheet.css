@@ -35,6 +35,7 @@ right: 20%;
 
 
 .navbar {
+  margin: auto;
   overflow: hidden;
   background-color: #FEFEFE;
 }
