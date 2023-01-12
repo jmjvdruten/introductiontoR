@@ -137,8 +137,7 @@ right: 20%;
 
 .intro-screen {
   color: #010101;
-  text-align: left;
-  background-color: #010101; }
+  text-align: left; }
 
 
 @media screen and (min-width: 64em) {
