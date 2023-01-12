@@ -33,7 +33,7 @@ position: absolute;
 
 .bar {
   margin: auto;
-  width: 90%;}
+  width: 80%;}
 
 
 .navbar {
@@ -109,7 +109,7 @@ position: absolute;
 
 .header {
   margin: auto;
-  width: 90%;}
+  width: 80%;}
 
 
 @media screen and (min-width: 64em) {
@@ -140,7 +140,7 @@ position: absolute;
 
 .banner {
   margin: auto;
-  width: 70%;
+  width: 90%;
   color: #010101;
   text-align: left;
   background-color: #010101; }
