@@ -130,16 +130,13 @@ position: absolute;
 
 
 @media screen and (min-width: 64em) {
-  .intro-screen {
-    padding: 5rem 6rem; } }
+  .intro-screen {} }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
-  .intro-screen {
-    padding: 3rem 4rem; } }
+  .intro-screen { } }
 
 @media screen and (max-width: 42em) {
-  .intro-screen {
-    padding: 2rem 1rem; } }
+  .intro-screen { } }
 
 .banner {
   margin: auto;
