@@ -110,7 +110,8 @@ position: absolute;
 
 .header {
   margin: auto;
-  width: 80%;}
+  width: 85%;
+  background-color: #FEFEFE}
 
 
 @media screen and (min-width: 64em) {
@@ -149,7 +150,6 @@ position: absolute;
   position: absolute;
   top: 80%;
   left: 10%;
-  transform: translate(-50%, -50%);
 }
 
 .project-tagline {
@@ -172,7 +172,8 @@ position: absolute;
 .content {
   margin: auto;
   width: 85%;
-  color: #010101;}
+  color: #010101;
+  background-color: #FEFEFE}
 
 .main-content :first-child {
   margin-top: 0; }
