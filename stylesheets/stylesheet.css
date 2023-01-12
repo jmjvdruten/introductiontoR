@@ -23,14 +23,10 @@ overflow: hidden;
 
 .column img:nth-of-type(1) {
 position: absolute;
-top: 0;
-left: 50%;
 }
 
 .column img:nth-of-type(2) {
 position: absolute;
-top: 0;
-right: 20%;
 }
 
 
@@ -109,8 +105,7 @@ right: 20%;
 .page-header {
   color: #010101;
   text-align: left;
-  background-color: #FEFEFE;
-  background-image: ; }
+  background-color: #FEFEFE;}
 
 .header {
   margin: auto;
@@ -128,22 +123,6 @@ right: 20%;
 @media screen and (max-width: 42em) {
   .page-header {
     padding: 2rem 1rem; } }
-
-.project-name {
-  margin-top: 0;
-  margin-bottom: 1rem; }
-
-@media screen and (min-width: 64em) {
-  .project-name {
-    font-size: 1.25rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .project-name {
-    font-size: 1.25rem; } }
-
-@media screen and (max-width: 42em) {
-  .project-name {
-    font-size: 0.75rem; } }
 
 .intro-screen {
   color: #010101;
