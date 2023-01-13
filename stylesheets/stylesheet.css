@@ -107,11 +107,9 @@ position: absolute;
 .page-header {
   color: #010101;
   text-align: left;
+  margin: auto;
   width: 85%;
   background-color: #FEFEFE}
-
-.header {
-  margin: auto;}
 
 
 @media screen and (min-width: 64em) {
@@ -279,10 +277,7 @@ position: absolute;
     font-size: 1rem; } }
 
 .site-footer {
-  background-color: #0c8066;
-  padding-top: 2rem;
-  margin-top: 2rem;
-  border-top: solid 1px #eff0f1;
+  background-color: #0c8066;;
   font-size: 1rem;}
 
 .site-footer-owner {
@@ -296,10 +291,8 @@ position: absolute;
   color: #010101;
   text-align: left;
   width: 85%;
+  margin: auto;
   background-color: #0c8066}
-
-.downer {
-  margin: auto;}
 
 
 @media screen and (min-width: 64em) {
