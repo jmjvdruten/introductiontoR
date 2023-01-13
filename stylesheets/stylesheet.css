@@ -109,7 +109,7 @@ a {
 
 #centered {
   position: absolute;
-  top: 15;
+  bottom: 15;
   left: 20;
 }
 
@@ -238,6 +238,7 @@ a {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
     background-color: #FEFEFE;
+    width: 85%;
     padding: 2rem 4rem;
     font-size: 1.1rem; } }
 
@@ -245,6 +246,7 @@ a {
   .main-content {
     background-color: #FEFEFE;
     padding: 2rem 1rem;
+    width: 85%;
     font-size: 1rem; } }
 
 .site-footer {
