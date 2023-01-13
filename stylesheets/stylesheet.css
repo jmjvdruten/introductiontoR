@@ -248,7 +248,10 @@ a {
 
 .site-footer {
   color: #FEFEFE;
-  font-size: 1rem;}
+  font-size: 1rem;
+  padding: 4rem 6rem;
+  width: 85%;
+  margin: 0 auto;}
 
 .site-footer-owner {
   display: block;
