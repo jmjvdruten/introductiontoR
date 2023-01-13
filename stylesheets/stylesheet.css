@@ -107,10 +107,10 @@ a {
   background-color: #FEFEFE;
   position = relative}
 
-.centered {
+#centered {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 20;
+  left: 20;
 }
 
 .project-tagline {
