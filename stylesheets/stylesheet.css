@@ -106,12 +106,12 @@ position: absolute;
 
 .page-header {
   color: #010101;
-  text-align: left;}
-
-.header {
-  margin: auto;
+  text-align: left;
   width: 85%;
   background-color: #FEFEFE}
+
+.header {
+  margin: auto;}
 
 
 @media screen and (min-width: 64em) {
