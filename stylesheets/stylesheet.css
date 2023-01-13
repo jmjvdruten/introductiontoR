@@ -141,7 +141,7 @@ a {
 
 .content {
   margin: auto;
-  width: 64em;
+  width: 70%;
   color: #010101;}
 
 .main-content :first-child {
@@ -261,7 +261,8 @@ a {
     font-size: 1rem; } }
 
 .site-footer {
-  background-color: #0c8066;;
+  background-color: #0c8066;
+  color: #FEFEFE;
   font-size: 1rem;}
 
 .site-footer-owner {
@@ -269,24 +270,11 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #FEFEFE; }
 
 .page-downer {
-  color: #010101;
+  color: #FEFEFE;
   text-align: left;
   width: 85%;
   margin: auto;
   background-color: #0c8066}
-
-
-@media screen and (min-width: 64em) {
-  .page-downer {
-    padding: 5rem 6rem; } }
-
-@media screen and (min-width: 42em) and (max-width: 64em) {
-  .page-downer {
-    padding: 3rem 4rem; } }
-
-@media screen and (max-width: 42em) {
-  .page-downer {
-    padding: 2rem 1rem; } }
