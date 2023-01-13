@@ -104,12 +104,13 @@ a {
   width: 85%;
   color: #010101;
   text-align: left;
-  background-color: #FEFEFE;}
+  background-color: #FEFEFE;
+  position = relative}
 
 .centered {
-  position: relative;
-  padding-top: 20%;
-  left: 10%;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 .project-tagline {
