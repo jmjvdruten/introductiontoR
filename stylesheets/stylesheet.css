@@ -148,7 +148,7 @@ position: absolute;
   background-color: #FEFEFE;}
 
 .centered {
-  position: absolute;
+  position: relative;
   top: 30%;
   left: 10%;
 }
