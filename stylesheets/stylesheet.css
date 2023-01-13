@@ -171,9 +171,8 @@ position: absolute;
 
 .content {
   margin: auto;
-  width: 85%;
-  color: #010101;
-  background-color: #FEFEFE}
+  width: 64em;
+  color: #010101;}
 
 .main-content :first-child {
   margin-top: 0; }
@@ -275,22 +274,27 @@ position: absolute;
   border: 0; }
 
 @media screen and (min-width: 64em) {
-  .main-content {
+  .main-content {  
+    background-color: #FEFEFE;
+    width: 85%;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
+    background-color: #FEFEFE;
     padding: 2rem 4rem;
     font-size: 1.1rem; } }
 
 @media screen and (max-width: 42em) {
   .main-content {
+    background-color: #FEFEFE;
     padding: 2rem 1rem;
     font-size: 1rem; } }
 
 .site-footer {
+  background-color: #FEFEFE;
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
