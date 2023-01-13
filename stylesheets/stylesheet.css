@@ -34,18 +34,18 @@ position: absolute;
 
 .bar {
   margin: auto;
-  width: 80%;}
+  width: 80%;
+  background-color: #FEFEFE;}
 
 
 .navbar {
   margin: auto;
   overflow: hidden;
-  background-color: #FEFEFE;
 }
 
 .navbar a {
   float: left;
-  font-size: 20px;
+  font-size: 18px;
   color: #010101;
   text-align: center;
   padding: 14px 16px;
@@ -61,7 +61,7 @@ position: absolute;
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
+  font-size: 18px;  
   border: none;
   outline: none;
   color: #010101;
@@ -276,7 +276,6 @@ position: absolute;
 
 @media screen and (min-width: 64em) {
   .main-content {
-    max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem; } }
