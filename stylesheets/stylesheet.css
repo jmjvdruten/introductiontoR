@@ -105,12 +105,12 @@ a {
   color: #010101;
   text-align: left;
   background-color: #FEFEFE;
-  position = relative}
+  position: relative;}
 
 #centered {
   position: absolute;
-  bottom: 15;
-  left: 20;
+  bottom: 15px;
+  left: 20px;
 }
 
 .project-tagline {
