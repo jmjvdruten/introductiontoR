@@ -107,12 +107,6 @@ a {
   background-color: #FEFEFE;
   position: relative;}
 
-#centered {
-  position: absolute;
-  bottom: 15px;
-  left: 20px;
-}
-
 .project-tagline {
   font-weight: normal;
   opacity: 0.7; }
