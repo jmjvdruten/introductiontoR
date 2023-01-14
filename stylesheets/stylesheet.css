@@ -95,6 +95,11 @@ a {
   width: 85%;
   background-color: #FEFEFE}
 
+.project-tagline {
+  margin: auto;
+  font-weight: normal;
+  opacity: 0.7; }
+
 .intro-screen {
   color: #010101;
   text-align: left; }
@@ -106,10 +111,6 @@ a {
   text-align: left;
   background-color: #FEFEFE;
   position: relative;}
-
-.project-tagline {
-  font-weight: normal;
-  opacity: 0.7; }
 
 .between {
   margin: auto;
