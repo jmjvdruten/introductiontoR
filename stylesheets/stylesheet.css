@@ -96,7 +96,6 @@ a {
   background-color: #FEFEFE}
 
 .project-tagline {
-  margin: auto;
   font-weight: 1000;
   opacity: 0.7; }
 
@@ -119,6 +118,7 @@ a {
 }
 .center {
   margin: auto;
+  width: 50%;
 }
 
 .content {
