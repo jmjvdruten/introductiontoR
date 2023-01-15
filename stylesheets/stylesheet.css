@@ -97,7 +97,9 @@ a {
 
 .project-tagline {
   font-weight: 1000;
-  opacity: 0.7; }
+  opacity: 0.7;
+  text-align: center;
+}
 
 .intro-screen {
   color: #010101;
@@ -118,8 +120,7 @@ a {
 }
 .center {
   margin: auto;
-  width: 50%
-  text-align: center;
+  width: 50%;
 }
 
 .content {
