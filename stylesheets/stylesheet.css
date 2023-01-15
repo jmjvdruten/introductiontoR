@@ -117,6 +117,9 @@ a {
   width: 70%;
   background-color: #FEFEFE;
 }
+.center {
+  margin: auto;
+}
 
 .content {
   margin: auto;
