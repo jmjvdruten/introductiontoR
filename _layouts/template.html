@@ -9,9 +9,7 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
     <section class="page-header">
@@ -27,8 +25,8 @@
       </div>
       
       <div class="bar">
-        <div class="navbar">
-          <a href=index>Home</a>
+        <div class="topnav" id="myTopnav">
+          <a href="index" class="active">Home</a>
           <div class="dropdown">
             <button class="dropbtn">Basics 
               <i class="fa fa-caret-down"></i>
@@ -64,9 +62,27 @@
           <a href=L6_Reporting>Reporting</a>
           <a href=L10_Web_Scraping>Web Scraping</a>
           <a href="https://github.com/kagruber2412/RIntroduction">GitHub Downloads</a>
+          <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
         </div>
+
+        <div style="padding-left:16px">
+          <h2>Responsive Topnav with Dropdown</h2>
+          <p>Resize the browser window to see how it works.</p>
+          <p>Hover over the dropdown button to open the dropdown menu.</p>
+        </div>
+
+        <script>
+        function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+            x.className += " responsive";
+          } else {
+            x.className = "topnav";
+          }
+        }
+        </script>
       </div>
-    </section>
+      
     
     <section class="intro-screen">
       <div class="banner">
