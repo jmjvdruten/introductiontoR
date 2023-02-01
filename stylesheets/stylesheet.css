@@ -44,11 +44,6 @@ a {
     text-decoration: underline; }
 }
 
-.active {
-  background-color: #04AA6D;
-  color: white;
-}
-
 .topnav .icon {
   display: none;
 }
@@ -101,7 +96,7 @@ a {
   display: block;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
@@ -111,7 +106,7 @@ a {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
